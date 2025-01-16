@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/carmelcity/web/main/public/images/banner_placeholder.webp" width="100%">
+<p align="center"> <img src="banner.png" width="100%">
 </p>
 
 # Carmel City System
@@ -16,7 +16,7 @@ The **Carmel Verifier** is in charge of verifying Secp256r1 WebAuthn signatures.
 
 [![Tests](https://img.shields.io/static/v1?label=tests&message=passing%20✓&color=%23388E3C)](coverage/contracts/CarmelVerifier.sol.index.html)
 [![Coverage](https://img.shields.io/static/v1?label=coverage&message=100%&color=%23388E3C)](coverage/contracts/CarmelVerifier.sol.index.html)
-[![Code](https://img.shields.io/static/v1?label=source%20code&message=CarmelVerifier.sol&color=%231976D2)](contracts/CarmelVerifier.sol)
+[![Code](https://img.shields.io/static/v1?label=source%20code&message=CarmelVerifier.sol&color=%231976D2)](https://github.com/carmelcity/sys/blob/main/contracts/CarmelVerifier.sol)
 
 ### The Registry
 
@@ -24,7 +24,7 @@ The **Carmel Registry** keeps track of all Carmel Accounts and associated data s
 
 [![Tests](https://img.shields.io/static/v1?label=tests&message=passing%20✓&color=%23388E3C)](coverage/contracts/CarmelRegistry.sol.index.html)
 [![Coverage](https://img.shields.io/static/v1?label=coverage&message=100%&color=%23388E3C)](coverage/contracts/CarmelRegistry.sol.index.html)
-[![Code](https://img.shields.io/static/v1?label=source%20code&message=CarmelRegistry.sol&color=%231976D2)](contracts/CarmelRegistry.sol)
+[![Code](https://img.shields.io/static/v1?label=source%20code&message=CarmelRegistry.sol&color=%231976D2)](https://github.com/carmelcity/sys/blob/main/contracts/CarmelRegistry.sol)
 
 ### The Treasury
 
@@ -32,17 +32,17 @@ The **Carmel Treasury** is responsible for managing funds for registered Carmel 
 
 [![Tests](https://img.shields.io/static/v1?label=tests&message=passing%20✓&color=%23388E3C)](coverage/contracts/CarmelTreasury.sol.index.html)
 [![Coverage](https://img.shields.io/static/v1?label=coverage&message=100%&color=%23388E3C)](coverage/contracts/CarmelTreasury.sol.index.html)
-[![Code](https://img.shields.io/static/v1?label=source%20code&message=CarmelTreasury.sol&color=%231976D2)](contracts/CarmelTreasury.sol)
+[![Code](https://img.shields.io/static/v1?label=source%20code&message=CarmelTreasury.sol&color=%231976D2)](https://github.com/carmelcity/sys/blob/main/contracts//CarmelTreasury.sol)
 
 ## Code Quality
 
 The code is covered 100% by tests, including all execution logic branches.
 
-![coverage](test/allcoverage.png)
+![coverage](coverage.png)
 
 The code passes dozens of extensive test cases.
 
-![tests](test/alltests.png)
+![tests](tests.png)
 
 ## Contributing
 

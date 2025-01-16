@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/carmelcity/.github/refs/heads/main/images/banner.png" width="100%">
+<p align="center"> <img src="images/banner.png" width="100%">
 </p>
 
 # Carmel City
