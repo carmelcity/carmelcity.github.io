@@ -1,10 +1,11 @@
-<p align="center"> <img src="images/banner.png" width="100%">
+<p align="center"> <img src="https://raw.githubusercontent.com/carmelcity/carmelcity.github.io/refs/heads/main/images/banner.png" width="100%">
 </p>
 
 # Carmel City
 
-[![Status](https://img.shields.io/static/v1?label=STATUS&message=BETA&color=%23009688&style=for-the-badge)](https://carmel.city)
 [![Web](https://img.shields.io/static/v1?label=VISIT&message=carmel.city&color=%23009688&style=for-the-badge)](https://carmel.city)
+[![Status](https://img.shields.io/static/v1?label=STATUS&message=BETA&color=%23388E3C&style=for-the-badge)](https://carmel.city)
+[![Code](https://img.shields.io/static/v1?label=CODE&message=MIT%20LICENSE&color=%231976D2&style=for-the-badge)](https://github.com/carmelcity)
 
 Carmel City is a self-governed platform for human-centric innovation, empowering members to build a more human world.
 
