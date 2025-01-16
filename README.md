@@ -1,4 +1,4 @@
-Carmel<p align="center"> <img src="https://raw.githubusercontent.com/carmelcity/.github/refs/heads/main/images/banner.png" width="100%">
+<p align="center"> <img src="https://raw.githubusercontent.com/carmelcity/.github/refs/heads/main/images/banner.png" width="100%">
 </p>
 
 # Carmel City
@@ -34,14 +34,14 @@ The **Carmel City System** is a group of Smart Contracts that represent the core
 
 The **Carmel City Node** is a peer-to-peer server that connects to other nodes in the **Carmel Network**. The node can either be a **relay** that connects other nodes or a **sentinel** that handles *self-sovereign account operations* on behalf of Carmel Accounts.
 
-[![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)]([LICENSE](https://github.com/carmelcity/.github/blob/main/LICENSE))
+[![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)](https://github.com/carmelcity/.github/blob/main/LICENSE)
 [![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20Node&color=%23039BE5)](https://github.com/carmelcity/node)
 
 ### The Main Website
 
 The **Carmel City Website** is the gateway to the Carmel City, where members collaborate, learn, and own their contributions. Here, members start by joining Carmels—thoughtful discussions on reimagining work and society. They then connect in communities to fund and launch impactful projects, while participating in challenges to earn rewards, and learn through tutorials. The website also features the Carmel Store, where Carmel Properties can be bought and sold.
 
-[![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)]([LICENSE](https://github.com/carmelcity/.github/blob/main/LICENSE))
+[![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)](https://github.com/carmelcity/.github/blob/main/LICENSE)
 [![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20Website&color=%23039BE5)](https://github.com/carmelcity/web)
 
 ## Contributing
