@@ -9,7 +9,7 @@ const config: Config = {
   url: 'https://docs.carmel.city',
   baseUrl: '/',
   organizationName: 'carmelcity',
-  projectName: 'Carmel City',
+  projectName: 'carmelcity.github.io',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
