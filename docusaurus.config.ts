@@ -12,7 +12,7 @@ const config: Config = {
   projectName: 'carmelcity.github.io',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
+  deploymentBranch: "main",
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],

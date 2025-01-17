@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarmeldocs=self.webpackChunkcarmeldocs||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/news","blogTitle":"Blog","authorsListPath":"/news/authors"}')}}]);
