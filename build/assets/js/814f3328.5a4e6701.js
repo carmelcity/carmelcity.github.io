@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarmeldocs=self.webpackChunkcarmeldocs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Private Beta Release 1","permalink":"/news/beta","unlisted":false,"date":"2025-01-17T00:00:00.000Z"}]}')}}]);
