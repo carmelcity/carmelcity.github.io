@@ -1,9 +1,9 @@
 facebook:
-  label: Announcements
+  label: announcements
   permalink: /announcements
   description: Carmel announcements
 
 hello:
-  label: Releases
+  label: releases
   permalink: /releases
   description: Carmel Releases
