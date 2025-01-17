@@ -31,7 +31,7 @@ const config: Config = {
     ['@docusaurus/plugin-client-redirects', {
       redirects: [
         {
-          to: '/developers/welcome',
+          to: '/developers/overview/welcome',
           from: '/developers',
         }
       ]
@@ -98,20 +98,7 @@ const config: Config = {
               href: 'https://github.com/carmelcity/web',
             },
           ],
-        },
-        {
-          title: 'Documentation',
-          items: [
-            {
-              label: 'Developers',
-              to: '/developers/intro',
-            },
-            {
-              label: 'Technical',
-              to: '/docs/intro',
-            },
-          ],
-        },
+        }
       ],
       copyright: `Copyright © 2025 I. Dan Calinescu - Licensed under the MIT License.`,
     },
